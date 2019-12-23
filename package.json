@@ -31,7 +31,7 @@
     "bluebird": "^3.4.0",
     "chai": "^4.2.0",
     "eslint": "^6.0.1",
-    "eslint-config-hexo": "^3.0.0",
+    "eslint-config-hexo": "^4.1.0",
     "mocha": "^6.0.2",
     "nyc": "^15.0.0",
     "superstatic": "^6.0.4"
